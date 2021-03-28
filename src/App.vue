@@ -1,12 +1,21 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+  <Navigator />
+  <div class="mt-28">
+    <h1 class=" text-4xl text-black">Hi, Content</h1>
+    
   </div>
-  <router-view/>
 </template>
 
 <script>
+import Navigator from './components/navigator/Navigator'
+
+export default {
+  name: 'App',
+  components: {
+    Navigator,
+  }
+}
 </script>
 
-<style></style>
+<style scoped>
+</style>
