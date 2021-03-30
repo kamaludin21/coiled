@@ -1,6 +1,6 @@
 <template>
   <div class="menu-list" v-for="menu in menus" :key="menu.id" >
-    <div class="h-full w-full py-2 border-green-600" :class="menu.active ? 'border-b-4' : ''">
+    <div class="menu-title" :class="menu.active ? 'active' : ''">
         {{ menu.title }}
     </div>
   </div>
@@ -60,6 +60,14 @@ export default {
 
 <style lang="postcss" scoped>
 .menu-list {
-  @apply border-r font-medium text-sm w-full text-center hover:bg-green-400 hover:text-white border-collapse;
+  @apply border-r font-medium text-sm w-full text-center hover:bg-blue-400 hover:text-white border-collapse;
+}
+
+.active {
+    @apply border-b-4;
+}
+
+.menu-title {
+    @apply h-full w-full py-2 border-blue-700;
 }
 </style>

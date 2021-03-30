@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed w-full mt-0 top-0 bg-white shadow">
+  <nav class="fixed w-full top-0 bg-white shadow overscroll-none">
     <div class="flex flex-row justify-between items-center py-2 px-56">
       <div>
         <img src="../../assets/img/coiled.png" class="h-12" alt="" />
