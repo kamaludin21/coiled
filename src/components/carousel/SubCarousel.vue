@@ -1,7 +1,7 @@
 <template>
   <div class="w-full flex mb-4">
     <div
-      class="bg-gray-100 ml-4 w-1/2 h-52"
+      class="bg-gray-100 ml-4 w-1/2 h-60"
       :style="{ backgroundImage: 'url(' + photoUrl + ')' }"
       style="
         background-position: center;
@@ -20,14 +20,14 @@
             <span class="capitalize font-base text-xs my-1 mr-1">{{
               author
             }}</span>
-            <VerifyIcon class="stroke-current stroke-1 text-blue-600 w-4" />
+            <VerifyIcon class="w-4" />
           </div>
           <ContentInfo like="21" comment="241" hours="1 Days ago" />
         </div>
       </div>
     </div>
     <div
-      class="bg-gray-100 ml-4 w-1/2 mr-4 h-52"
+      class="bg-gray-100 ml-4 w-1/2 mr-4 h-60"
       :style="{ backgroundImage: 'url(' + photoUrl + ')' }"
       style="
         background-position: center;
@@ -46,7 +46,7 @@
             <span class="capitalize font-base text-xs my-1 mr-1">{{
               author
             }}</span>
-            <VerifyIcon class="stroke-current stroke-1 text-blue-600 w-4" />
+            <VerifyIcon class="w-4" />
           </div>
           <ContentInfo like="21" comment="241" hours="1 Days ago" />
         </div>

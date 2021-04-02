@@ -21,23 +21,23 @@
 </template>
 
 <script>
-import LoveIcon from '../icons/LoveIcon'
-import CommentIcon from '../icons/CommentIcon'
-import ClockIcon from '../icons/ClockIcon'
-import DotsVertical from '../icons/DotsVertical'
+import LoveIcon from "../icons/LoveIcon";
+import CommentIcon from "../icons/CommentIcon";
+import ClockIcon from "../icons/ClockIcon";
+import DotsVertical from "../icons/DotsVertical";
 
 export default {
-    name: 'ContentInfo',
-    components: {
-        LoveIcon,
-        CommentIcon,
-        ClockIcon,
-        DotsVertical
-    }, 
-    props: {
-        like: String,
-        comment: String,
-        hours: String
-    }
-}
+  name: "ContentInfo",
+  components: {
+    LoveIcon,
+    CommentIcon,
+    ClockIcon,
+    DotsVertical,
+  },
+  props: {
+    like: String,
+    comment: String,
+    hours: String,
+  },
+};
 </script>

@@ -29,27 +29,27 @@ export default {
         },
         {
           id: 3,
-          title: "Video",
-          active: false,
-        },
-        {
-          id: 4,
           title: "kumparan+",
           active: false,
         },
         {
-          id: 5,
+          id: 4,
           title: "Opini & Cerita",
           active: false,
         },
         {
-          id: 6,
+          id: 5,
           title: "Kabar Daerah",
           active: false,
         },
         {
-          id: 7,
+          id: 6,
           title: "Peringkat Penulis",
+          active: false,
+        },
+        {
+          id: 7,
+          title: "News",
           active: false,
         },
       ],

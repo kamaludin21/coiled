@@ -17,10 +17,10 @@
             {{ title }}
           </h3>
           <div class="inline-flex items-center">
-            <span class="capitalize font-base text-xs my-1 mr-1"
-              >{{ author }}</span
-            >
-            <VerifyIcon class="stroke-current stroke-1 text-blue-600 w-4" />
+            <span class="capitalize font-base text-xs my-1 mr-1">{{
+              author
+            }}</span>
+            <VerifyIcon class="w-4" />
           </div>
           <ContentInfo :like="like" :comment="comment" :hours="hours" />
         </div>
@@ -30,22 +30,22 @@
 </template>
 
 <script>
-import ContentInfo from './ContentInfo'
-import VerifyIcon from '../icons/VerifyIcon'
+import ContentInfo from "./ContentInfo";
+import VerifyIcon from "../icons/VerifyIcon";
 
 export default {
-    name: 'Carousel',
-    components: {
-        ContentInfo,
-        VerifyIcon
-    },
-    props: {
-        title: String,
-        like: String,
-        photoUrl: String,
-        author: String,
-        comment: String,
-        hours: String,
-    }
-}
+  name: "HeadlineContent",
+  components: {
+    ContentInfo,
+    VerifyIcon,
+  },
+  props: {
+    title: String,
+    like: String,
+    photoUrl: String,
+    author: String,
+    comment: String,
+    hours: String,
+  },
+};
 </script>
