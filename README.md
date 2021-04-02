@@ -1,5 +1,16 @@
 # coiled
 
+clone ui from kumparan and wired hybrid
+
+[Demo App](https://coiled.vercel.app/)
+
+### Tech stack
+
+- Tailwindcss
+- Vuejs
+- Vercel
+- Webpack
+
 ## Project setup
 ```
 npm install
