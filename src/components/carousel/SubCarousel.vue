@@ -1,7 +1,7 @@
 <template>
-  <div class="w-full flex mb-4">
+  <div class="w-full flex mb-4 space-x-4 px-4">
     <div
-      class="bg-gray-100 ml-4 w-1/2 h-60"
+      class="bg-gray-100 w-1/2 h-60"
       :style="{ backgroundImage: 'url(' + photoUrl + ')' }"
       style="
         background-position: center;
@@ -27,7 +27,7 @@
       </div>
     </div>
     <div
-      class="bg-gray-100 ml-4 w-1/2 mr-4 h-60"
+      class="bg-gray-100 w-1/2 h-60"
       :style="{ backgroundImage: 'url(' + photoUrl + ')' }"
       style="
         background-position: center;
@@ -69,7 +69,7 @@ export default {
     photoUrl: {
       type: String,
       default:
-        "https://images.pexels.com/photos/935979/pexels-photo-935979.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "https://i.ibb.co/PTcVjmq/sub-carousel-mini.jpg",
     },
     title: {
       type: String,

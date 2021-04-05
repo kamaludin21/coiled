@@ -1,5 +1,5 @@
 <template>
-  <section class="mt-10 px-56">
+  <section class="my-10 px-56">
     <div class="flex justify-between items-center">
       <p class="font-bold text-2xl">{{ sectionTitle }}</p>
       <button tipe="button" class="focus:outline-none text-lg">
@@ -7,7 +7,7 @@
         <ChevronRightIcon class="inline-block -mt-0.5 h-5 w-5" />
       </button>
     </div>
-    <div class="flex flex-row justify-evenly mt-5 space-x-5 mb-20">
+    <div class="flex flex-row justify-evenly mt-5 space-x-5">
       <ImageCard
         :photoUrl="photoUrl"
         :title="title"
@@ -66,8 +66,7 @@ export default {
           id: 1,
           title:
             "PKS Terima Hehamahua Dkk, Siap Usulkan Hak Angket Usut Tewasnya 6 Laskar FPI",
-          photoUrl:
-            "https://images.pexels.com/photos/4427430/pexels-photo-4427430.jpeg?auto=compress",
+          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
           author: "kumparanNews",
           like: 3,
           comment: 21,
@@ -77,8 +76,7 @@ export default {
           id: 2,
           title:
             "Cerita Ibu Bomber Gereja Katedral Makassar: Peluk, Pamit dan Cium Tangan",
-          photoUrl:
-            "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress",
+          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
           author: "Ahmad Subagyo",
           like: 167,
           comment: 3,
@@ -88,8 +86,7 @@ export default {
           id: 3,
           title:
             "Moeldoko: Saya Rela Pertaruhkan Leher untuk Tegakkan Pancasila dan Merah Putih",
-          photoUrl:
-            "https://images.pexels.com/photos/1009949/pexels-photo-1009949.jpeg?auto=compress",
+          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
           author: "Jhanet Rose",
           like: 23,
           comment: 7,
@@ -99,8 +96,7 @@ export default {
           id: 4,
           title:
             "Andi Arief Bicara SK Kemenkumham: Ada Indikasi Kantor DPP Akan Direbut Paksa",
-          photoUrl:
-            "https://images.pexels.com/photos/716276/pexels-photo-716276.jpeg?auto=compress",
+          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
           author: "Maguire Henry",
           like: 87,
           comment: 36,
@@ -110,8 +106,7 @@ export default {
           id: 5,
           title:
             "Gerbang Tol Cileunyi Akan Hilang, Jasa Marga Operasikan Gerbang Sementara",
-          photoUrl:
-            "https://images.pexels.com/photos/681335/pexels-photo-681335.jpeg?auto=compress",
+          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
           author: "Ngolo Kante",
           like: 12,
           comment: 19,

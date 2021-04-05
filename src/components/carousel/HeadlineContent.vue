@@ -13,9 +13,9 @@
         <div
           class="flex flex-col w-full pb-3 pt-10 px-3 bg-gradient-to-t from-black text-gray-200"
         >
-          <h3 class="text-base font-bold leading-5 uppercase">
+          <router-link to="article" class="text-base font-bold leading-5 uppercase">
             {{ title }}
-          </h3>
+          </router-link>
           <div class="inline-flex items-center">
             <span class="capitalize font-base text-xs my-1 mr-1">{{
               author

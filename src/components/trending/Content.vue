@@ -1,5 +1,5 @@
 <template>
-  <div class="card-wrapper hover:bg-gray-100">
+  <router-link to="article" class="card-wrapper hover:bg-gray-100">
     <div class="card-content-wrapper">
       <p class="card-title">
         {{ trending.title }}
@@ -16,7 +16,7 @@
         class="object-cover object-center"
       />
     </div>
-  </div>
+  </router-link>
 </template>
 
 <script>

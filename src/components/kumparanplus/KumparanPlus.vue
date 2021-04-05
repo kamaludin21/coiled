@@ -1,5 +1,5 @@
 <template>
-  <section class="mt-10 px-56">
+  <section class="my-10 px-56">
     <div class="flex justify-between items-center">
       <p class="font-bold text-2xl">
         kumparan<span class="font-black">+</span>

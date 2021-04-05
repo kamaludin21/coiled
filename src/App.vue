@@ -1,16 +1,18 @@
 <template>
   <Navigator/>
   <router-view></router-view>
-
+  <Footer />
 </template>
 
 <script>
 import Navigator from "./components/navigator/Navigator";
+import Footer from "./components/footer/Footer";
 
 export default {
   name: "App",
   components: {
     Navigator,
+    Footer,
   },
 };
 </script>
