@@ -19,10 +19,10 @@
             <span class="author">Abdul Wahid</span>
             <VerifyIcon class="w-4" />
           </div>
-          <ContentInfo :like="0" :comment="0" :hours="0" />
+          <ContentInfo :like="2" :comment="5" :hours="`1 Hours ago`" />
         </div>
         <img
-          src="https://images.pexels.com/photos/975545/pexels-photo-975545.jpeg?auto=compress"
+          src="https://images.pexels.com/photos/3926744/pexels-photo-3926744.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=264&w=336"
           class="object-cover h-20"
         />
       </div>
@@ -31,15 +31,17 @@
       >
         <div class="w-3/4">
           <p class="text-xs font-semibold text-red-600">Terpopuler</p>
-          <p class="text-lg leading-none">Keberanian melawan teroris</p>
+          <p class="text-lg leading-none">
+            Apa Hubungan Puasa Ramadhan dengan Latsar CPNS dan TQM?
+          </p>
           <div class="author-wrapper">
             <span class="author">Abdul Wahid</span>
             <VerifyIcon class="w-4" />
           </div>
-          <ContentInfo :like="0" :comment="0" :hours="0" />
+          <ContentInfo :like="1" :comment="2" :hours="`3 Minutes ago`" />
         </div>
         <img
-          src="https://images.pexels.com/photos/975545/pexels-photo-975545.jpeg?auto=compress"
+          src="https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=264&w=336"
           class="object-cover h-20"
         />
       </div>

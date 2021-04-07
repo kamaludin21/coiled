@@ -5,7 +5,13 @@
       komunitas kami
     </p>
     <div class="flex justify-between items-center mt-4">
-      <p class="text-xl font-bold">12 Komentar</p>
+      <div class="flex">
+        <LoveIcon class="w-6 mr-1" />
+        <p class="font-bold">12</p>
+        <div class="mx-2"></div>
+        <CommentIcon class="w-6 mr-1" />
+        <p class="font-bold">2</p>
+      </div>
       <div class="flex space-x-2">
         <img
           class="w-8 h-8"
@@ -43,14 +49,48 @@
         />
         <div class="mx-2 w-full">
           <p class="font-bold">Maumane Ikmona</p>
-          <p class="text-sm">Great buddy 😋😂</p>
+          <div class="text-sm">
+            <p>
+              Sekolah yang gak mau pasang bendera merah putih dan Garuda Pancasila berarti kagak beda sama PKI.
+            </p>
+            <p>
+              Orang2 yang dukung sekolahan model gituan juga berarti kagak beda sama PKI
+            </p>
+          </div>
           <div class="flex flex-row justify-between items-center mt-1">
             <div class="flex flex-row items-center space-x-2">
               <span class="text-xs">A Hours ago</span>
               <p>&bull;</p>
               <span class="text-xs">1 Suka</span>
               <p>&bull;</p>
-              <span class="text-xs">Report</span>
+              <span class="text-xs">Reply</span>
+            </div>
+            <div class="w-max">
+              <DotsVertical class="w-4" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="flex items-start">
+        <img
+          class="rounded-full w-8 h-8"
+          src="https://randomuser.me/api/portraits/thumb/men/56.jpg"
+          alt=""
+        />
+        <div class="mx-2 w-full">
+          <p class="font-bold">Sunan Ampel</p>
+          <div class="text-sm">
+            <p>
+              Mudah-mudahan tidak terjadi apa 🙏🏻🙏🏻
+            </p>
+          </div>
+          <div class="flex flex-row justify-between items-center mt-1">
+            <div class="flex flex-row items-center space-x-2">
+              <span class="text-xs">A Hours ago</span>
+              <p>&bull;</p>
+              <span class="text-xs">1 Suka</span>
+              <p>&bull;</p>
+              <span class="text-xs">Reply</span>
             </div>
             <div class="w-max">
               <DotsVertical class="w-4" />
@@ -63,12 +103,16 @@
 </template>
 
 <script>
+import LoveIcon from "../icons/LoveIcon";
 import DotsVertical from "../icons/DotsVertical";
+import CommentIcon from "../icons/CommentIcon";
 
 export default {
   name: "Comment",
   components: {
+    LoveIcon,
     DotsVertical,
+    CommentIcon,
   },
 };
 </script>

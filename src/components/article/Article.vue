@@ -25,38 +25,72 @@
       src="https://images.pexels.com/photos/4427430/pexels-photo-4427430.jpeg"
       alt=""
     />
-    <div class="p-2 bg-gray-300 mt-2 mb-4 text-sm text-gray-700">
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem
-      deserunt vero quo nemo nobis iusto fugit corporis
+    <div class="p-2 bg-gray-200 mt-2 mb-4 text-sm text-gray-600">
+      Kiri CEO Tokopedia (William), CEO Kumparan (Haryy), CTO WIred (Michael) dan perwakilan PBB, Maguire, Kante Dan Iliana
     </div>
     <!-- Content -->
-    <div class="my-4">
+    <div class="my-4 space-y-4 text-lg">
       <p>
-        Para biksu Buddha menunggu untuk menerima dosis pertama vaksin Sinovac
-        untuk memutus mata rantai penyebaran virus corona. Vaksinasi tersebut
-        dilakukan di sebuah kuil di Bangkok, Thailand.
+        MANADO - GP Ansor Sulawesi Utara menemukan adanya sekolah, yang tidak
+        melaksanakan upacara bendera termasuk tidak memberikan hormat untuk
+        bendera merah putih. Selain itu, sekolah tersebut tidak memasang lambang
+        Garuda Pancasila serta memajang foto kepala negara.
       </p>
       <p>
-        Thailand menargetkan memberikan vaksin corona sebanyak 10 juta dosis
-        sebelum bulan Juni.
+        Hal ini dikatakan Ketua GP Ansor Sulawesi Utara, Yusra Alhabsy di depan
+        Menteri Agama Yaqut Kholil Qoumas dan juga Gubernur Sulawesi Utara Olly
+        Dondokambey. Menurut Alhabsy, hal ini ditemukan belum lama ini.
+      </p>
+      <p>
+        “Kami GP Ansor bukan ingin menakut-nakuti kita semua. Tapi, hal ini
+        harus diungkapkan karena kita tidak memberikan toleransi apapun kepada
+        hal-hal yang tak menghormati negara kita. Ini penting, karena terjadi di
+        dunia pendidikan kita," kata Alhabsy.
+      </p>
+      <p>
+        Menurut Alhabsy, lembaga pendidikan terutama sekolah itu adalah tempat
+        para generasi muda menerima ilmu dan tentunya bagaimana mencintai
+        negaranya sendiri. Apalagi, kepribadian seseorang juga terbentuk dari
+        lingkungan terutama sekolahnya.
+      </p>
+      <p>
+        "Tentunya kita harus perangi bersama paham-paham yang tidak mencintai
+        negara kita. Terus terang, GP Ansor sangat gelisah dengan kondisi ini.
+        Mungkin jika berkenan, pemerintah bisa bekerjasama dengan GP Ansor untuk
+        melakukan penelitian terhadap hal-hal seperti itu," kata Yusra kembali.
+      </p>
+      <p>
+        Sementara, Kepala Dinas Pendidikan dan Kebudayaan Sulawesi Utara, dr
+        Grace Punuh, mengaku sudah menerima laporan terkait dengan hal yang
+        ditemukan oleh GP Ansor tersebut. Dirinya mengakui, jika akan
+        menindaklanjuti persoalan tersebut.
+      </p>
+      <p>
+        “Kami akan tindaklanjuti segera,” ujar Grace kepada manadobacirita,
+        Senin (5/4) malam ini.
       </p>
     </div>
     <!-- Tags -->
-    <div class="flex space-x-1">
+    <div class="flex space-x-1 mt-10">
       <p
-        class="border cursor-pointer border-gray-600 text-gray-600 hover:text-black font-medium px-2 py-1"
+        class="border cursor-pointer border-gray-600 text-gray-600 hover:bg-gray-300 hover:text-black font-medium px-2 py-1"
       >
         SPORT
       </p>
       <p
-        class="border cursor-pointer border-gray-600 text-gray-600 hover:text-black font-medium px-2 py-1"
+        class="border cursor-pointer border-gray-600 text-gray-600 hover:bg-gray-300 hover:text-black font-medium px-2 py-1"
       >
         NEWS
       </p>
       <p
-        class="border cursor-pointer border-gray-600 text-gray-600 hover:text-black font-medium px-2 py-1"
+        class="border cursor-pointer border-gray-600 text-gray-600 hover:bg-gray-300 hover:text-black font-medium px-2 py-1"
       >
         COVID-19
+      </p>
+      <p
+        class="border cursor-pointer border-gray-600 text-gray-600 hover:text-black hover:bg-gray-300 font-medium px-2 py-1"
+      >
+        VACCINE
       </p>
     </div>
     <!-- Other Informations -->
@@ -103,6 +137,48 @@
           Tim redaksi
           <ChevronDown class="inline-block h-4 w-4" />
         </button>
+      </div>
+      <div class="space-y-4 mt-6 hidden" id="user">
+        <div class="flex w-full justify-between items-center">
+          <div class="flex items-center space-x-3">
+            <img
+              class="inline object-cover w-12 h-12 rounded-full shadow"
+              src="https://randomuser.me/api/portraits/thumb/men/32.jpg"
+              alt="Profile image"
+            />
+            <div>
+              <p class="font-medium leading-tight">
+                Ahmad Syahroni <VerifyIcon class="inline-block -mt-1 w-5" />
+              </p>
+              <p class="text-sm font-light">Write</p>
+            </div>
+          </div>
+          <button
+            class="bg-green-400 hover:bg-green-600 text-white px-4 py-1 font-bold text-sm shadow"
+          >
+            IKUTI
+          </button>
+        </div>
+        <div class="flex w-full justify-between items-center">
+          <div class="flex items-center space-x-3">
+            <img
+              class="inline object-cover w-12 h-12 rounded-full shadow"
+              src="https://randomuser.me/api/portraits/thumb/women/36.jpg"
+              alt="Profile image"
+            />
+            <div>
+              <p class="font-medium leading-tight">
+                Siti Maemun Bin Ursula <VerifyIcon class="inline-block -mt-1 w-5" />
+              </p>
+              <p class="text-sm font-light">Editor</p>
+            </div>
+          </div>
+          <button
+            class="bg-green-400 hover:bg-green-600 text-white px-4 py-1 font-bold text-sm shadow"
+          >
+            IKUTI
+          </button>
+        </div>
       </div>
     </div>
   </div>

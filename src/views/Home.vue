@@ -70,7 +70,7 @@ export default {
           id: 1,
           title:
             "PKS Terima Hehamahua Dkk, Siap Usulkan Hak Angket Usut Tewasnya 6 Laskar FPI",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
           author: "kumparanNews",
           like: 3,
           comment: 21,
@@ -80,7 +80,7 @@ export default {
           id: 2,
           title:
             "Cerita Ibu Bomber Gereja Katedral Makassar: Peluk, Pamit dan Cium Tangan",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/3873786/pexels-photo-3873786.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
           author: "Ahmad Subagyo",
           like: 167,
           comment: 3,
@@ -90,7 +90,7 @@ export default {
           id: 3,
           title:
             "Moeldoko: Saya Rela Pertaruhkan Leher untuk Tegakkan Pancasila dan Merah Putih",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/1544947/pexels-photo-1544947.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
 
           author: "Jhanet Rose",
           like: 23,
@@ -101,7 +101,7 @@ export default {
           id: 4,
           title:
             "Andi Arief Bicara SK Kemenkumham: Ada Indikasi Kantor DPP Akan Direbut Paksa",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
           author: "Maguire Henry",
           like: 87,
           comment: 36,
@@ -111,7 +111,7 @@ export default {
           id: 5,
           title:
             "Gerbang Tol Cileunyi Akan Hilang, Jasa Marga Operasikan Gerbang Sementara",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
           author: "Ngolo Kante",
           like: 12,
           comment: 19,
@@ -123,7 +123,7 @@ export default {
           sectionTitle: "News",
           title:
             "96 Sekolah Uji Coba Tatap Muka, Pemprov DKI Tetap Pertimbangkan Tren Corona",
-          photoUrl: "https://i.ibb.co/3Yb4PV9/image-card-section-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/3837409/pexels-photo-3837409.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=648&w=506",
           author: "Budi Sadikin",
           like: 2,
           comment: 32,
@@ -133,7 +133,7 @@ export default {
               id: 1,
               title:
                 "Muhammadiyah: Teror di Mabes Polri Tamparan Keras Bagi Polisi",
-              photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+              photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
               author: "kumparanSports",
               like: 3,
               comment: 21,
@@ -143,7 +143,7 @@ export default {
               id: 2,
               title:
                 "Muhammadiyah: Teror di Mabes Polri Tamparan Keras Bagi Polisi",
-              photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+              photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
               author: "kumparanSports",
               like: 3,
               comment: 21,
@@ -153,7 +153,7 @@ export default {
               id: 3,
               title:
                 "Muhammadiyah: Teror di Mabes Polri Tamparan Keras Bagi Polisi",
-              photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+              photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
               author: "kumparanSports",
               like: 3,
               comment: 21,
@@ -163,7 +163,7 @@ export default {
               id: 4,
               title:
                 "Muhammadiyah: Teror di Mabes Polri Tamparan Keras Bagi Polisi",
-              photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+              photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
               author: "kumparanSports",
               like: 3,
               comment: 21,
@@ -173,7 +173,7 @@ export default {
               id: 5,
               title:
                 "Muhammadiyah: Teror di Mabes Polri Tamparan Keras Bagi Polisi",
-              photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+              photoUrl: "https://images.pexels.com/photos/3947511/pexels-photo-3947511.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
               author: "kumparanSports",
               like: 3,
               comment: 21,
@@ -185,7 +185,7 @@ export default {
           sectionTitle: "Bola & Sport",
           title:
             "Persela vs Madura United: Head to Head, Prakiraan Line Up & Jadwal Tayang",
-          photoUrl: "https://i.ibb.co/3Yb4PV9/image-card-section-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=648&w=506",
           author: "Budi Sadikin",
           like: 2,
           comment: 32,
@@ -195,7 +195,25 @@ export default {
             {
               id: 1,
               title: "Duel WGM Irene Kharisma vs GothamChess Berakhir Imbang",
-              photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+              photoUrl: "https://images.pexels.com/photos/2695392/pexels-photo-2695392.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
+              author: "kumparanSports",
+              like: 3,
+              comment: 21,
+              hours: "2 Hours ago",
+            },
+            {
+              id: 2,
+              title: "Kisah Edwin Valero: Raja KO dari Venezuela yang Hidupnya Berakhir Tragis",
+              photoUrl: "https://images.pexels.com/photos/1575381/pexels-photo-1575381.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
+              author: "kumparanSports",
+              like: 3,
+              comment: 21,
+              hours: "2 Hours ago",
+            },
+            {
+              id: 3,
+              title: "Madrid vs Liverpool: Tampil Garang, Los Blancos Hantam The Reds",
+              photoUrl: "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
               author: "kumparanSports",
               like: 3,
               comment: 21,

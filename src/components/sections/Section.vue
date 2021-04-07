@@ -63,40 +63,37 @@ export default {
       articles: [
         // 5 Items
         {
-          id: 1,
-          title:
-            "PKS Terima Hehamahua Dkk, Siap Usulkan Hak Angket Usut Tewasnya 6 Laskar FPI",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
-          author: "kumparanNews",
-          like: 3,
-          comment: 21,
-          hours: "2 Hours ago",
-        },
-        {
-          id: 2,
-          title:
-            "Cerita Ibu Bomber Gereja Katedral Makassar: Peluk, Pamit dan Cium Tangan",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
-          author: "Ahmad Subagyo",
-          like: 167,
-          comment: 3,
-          hours: "3 Hours ago",
-        },
-        {
-          id: 3,
-          title:
-            "Moeldoko: Saya Rela Pertaruhkan Leher untuk Tegakkan Pancasila dan Merah Putih",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
-          author: "Jhanet Rose",
-          like: 23,
-          comment: 7,
-          hours: "4 Hours ago",
-        },
+              id: 1,
+              title: "Duel WGM Irene Kharisma vs GothamChess Berakhir Imbang",
+              photoUrl: "https://images.pexels.com/photos/5691847/pexels-photo-5691847.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
+              author: "kumparanSports",
+              like: 3,
+              comment: 21,
+              hours: "2 Hours ago",
+            },
+            {
+              id: 2,
+              title: "Kisah Edwin Valero: Raja KO dari Venezuela yang Hidupnya Berakhir Tragis",
+              photoUrl: "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
+              author: "kumparanSports",
+              like: 3,
+              comment: 21,
+              hours: "2 Hours ago",
+            },
+            {
+              id: 3,
+              title: "Madrid vs Liverpool: Tampil Garang, Los Blancos Hantam The Reds",
+              photoUrl: "https://images.pexels.com/photos/6507966/pexels-photo-6507966.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
+              author: "kumparanSports",
+              like: 3,
+              comment: 21,
+              hours: "2 Hours ago",
+            },
         {
           id: 4,
           title:
             "Andi Arief Bicara SK Kemenkumham: Ada Indikasi Kantor DPP Akan Direbut Paksa",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/6507966/pexels-photo-6507966.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
           author: "Maguire Henry",
           like: 87,
           comment: 36,
@@ -106,7 +103,7 @@ export default {
           id: 5,
           title:
             "Gerbang Tol Cileunyi Akan Hilang, Jasa Marga Operasikan Gerbang Sementara",
-          photoUrl: "https://i.ibb.co/Pwy0gT1/scroll-card-mini.jpg",
+          photoUrl: "https://images.pexels.com/photos/6507966/pexels-photo-6507966.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=210&w=212",
           author: "Ngolo Kante",
           like: 12,
           comment: 19,

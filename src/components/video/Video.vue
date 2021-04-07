@@ -10,9 +10,6 @@
     </div>
     <div class="flex flex-row justify-start mt-5 space-x-5">
       <ContentVideo />
-      <ContentVideo />
-      <ContentVideo />
-      <ContentVideo />
     </div>
   </section>
 </template>

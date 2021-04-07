@@ -26,14 +26,14 @@ export default {
     HeadlineContent,
     SubCarousel,
   },
-  data() {
+  data() {  
     return {
       id: 77387,
       title:
         "BIN: PELAKU BOM BUNUH DIRI DI KATEDRAL MAKASSAR MEMANG DALAM PENGEJARAN PETUGAS",
       author: "Agnez Bazooka",
       photoUrl:
-        "https://i.ibb.co/8504cH5/New-Project-1.jpg",
+        "https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=580&w=1348",
       like: 12,
       comment: 45,
       hours: "2 Hours ago",
